@@ -1,3 +1,5 @@
+// conteudo da aula 1
+
 const add = (a: number, b: number): any => {
   return a + b ;
 }
