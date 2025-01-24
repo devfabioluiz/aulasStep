@@ -1,0 +1,24 @@
+1) Crie uma função genérica chamada mergeObjects que recebe dois objetos como parâmetros e retorna um novo objeto contendo todas as propriedades dos dois objetos.
+Requisitos:
+
+A função deve garantir que os tipos dos objetos sejam preservados.
+Exemplo de uso:
+
+const obj1 = { name: "Alice" };
+const obj2 = { age: 25 };
+const result = mergeObjects(obj1, obj2);
+// Resultado esperado: { name: "Alice", age: 25 }
+
+2) Implemente uma função chamada logValues que recebe um array de qualquer tipo (any[]) e imprime os valores no console.
+Requisitos:
+
+A função deve identificar o tipo do valor antes de imprimi-lo.
+Exemplo de uso:
+
+logValues([42, "Hello", true]);
+// Saída esperada:
+// Valor: 42, Tipo: number
+// Valor: Hello, Tipo: string
+// Valor: true, Tipo: boolean
+
+
