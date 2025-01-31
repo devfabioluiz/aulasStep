@@ -1,0 +1,96 @@
+Módulo 1 (4 horas)
+Introdução ao TypeScript
+1. O que é TypeScript?
+2. História do TypeScript
+3. Objetivos e propósitos do TypeScript
+4. Instalação do TypeScript
+5. Compilação de aplicativos TypeScript
+6. Tipos de dados
+7. Variáveis e constantes
+8. Saída no console
+9. Operadores condicionais:
+a) if
+b) if else
+c) switch
+10. Loops:
+a) for
+b) while
+c) do while
+11. Palavras-chave:
+a) break
+b) continue
+12. Arrays
+Módulo 2 (2 horas)
+Funções
+1. Criação de funções
+2. Passagem de parâmetros
+a) Parâmetros obrigatórios
+b) Parâmetros opcionais (valores padrão)
+c) Número indefinido de parâmetros
+3. Valor de retorno
+4. Sobrecarga de funções
+5. Tipo de função
+a) Definição
+b) Criação de variáveis com tipo de função
+c) Função como parâmetro
+6. Funções anônimas
+7. Funções arrow
+Módulo 3 (6 horas)
+Programação Orientada a Objetos (POO)
+1. Introdução à POO no TypeScript
+a) Encapsulamento
+b) Polimorfismo
+c) Herança
+2. Classes e objetos
+3. Modificadores de acesso
+4. Propriedades e métodos da classe
+5. Construtores
+6. Propriedades e métodos estáticos
+7. Getters e Setters
+8. Herança
+a) Palavra-chave extends
+b) Comportamento dos construtores na herança
+c) Sobrescrita de métodos
+d) Classes abstratas e métodos abstratos
+e) Interfaces
+I.Definição e objetivos
+II.Interfaces de objetos e classes
+III.Declaração de interfaces
+IV.Propriedades opcionais e somente leitura
+V.Herança entre interfaces
+VI.Interfaces para funções e arrays
+VII.Interfaces híbridas
+Módulo 4 (2 horas)
+Generics
+1. Generics (Tipos Genéricos)
+2. Objetivos e vantagens
+3. Arrays genéricos
+4. Funções genéricas
+5. Classes genéricas
+6. Interfaces genéricas
+7. Restrições nos genéricos
+Módulo 5 (4 aulas)
+Mixins, Namespaces e Módulos
+1) Mixins
+a) Definição e objetivos
+b) Palavra-chave implements
+c) Exemplos práticos
+2) Namespaces (Espaços de nomes)
+a) Definição
+b) Declaração e sintaxe
+c) Exemplos práticos
+d) Namespaces aninhados
+e) Apelidos para namespaces
+3) Módulos
+a) Introdução
+b) Definição e objetivos
+c) Exportação e importação de módulos
+d) Carregamento de módulos
+4) Uso de arquivos de declaração (.d.ts)
+5) Decorators (Decoradores)
+a) Introdução
+b) Objetivos
+c) Decoradores para classes, métodos e propriedades
+d) Fábricas de decoradores
+e) Exemplos práticos
+Módulo 6 (2 horas)
